@@ -1,0 +1,23 @@
+{
+  "id": "modules/sales/online-orders",
+  "title": "Online Orders",
+  "description": "Details the handling and processing of online customer orders.",
+  "source": "@site/docs/modules/sales/online-orders.md",
+  "sourceDirName": "modules/sales",
+  "slug": "/modules/sales/online-orders",
+  "permalink": "/Elastik/docs/modules/sales/online-orders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sales Consignment",
+    "permalink": "/Elastik/docs/modules/sales/sales-consignment"
+  },
+  "next": {
+    "title": "Customer Pricing",
+    "permalink": "/Elastik/docs/modules/sales/customer-pricing"
+  }
+}

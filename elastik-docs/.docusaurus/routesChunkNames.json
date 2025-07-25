@@ -1,0 +1,130 @@
+{
+  "/Elastik/__docusaurus/debug-863": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---elastik-docusaurus-debugb-38-54e"
+    }
+  },
+  "/Elastik/__docusaurus/debug/config-8e4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---elastik-docusaurus-debugb-38-54e"
+    }
+  },
+  "/Elastik/__docusaurus/debug/content-f5c": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---elastik-docusaurus-debugb-38-54e"
+    },
+    "__props": "__props---elastik-docusaurus-debug-content-607-b48"
+  },
+  "/Elastik/__docusaurus/debug/globalData-acd": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---elastik-docusaurus-debugb-38-54e"
+    }
+  },
+  "/Elastik/__docusaurus/debug/metadata-8bb": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---elastik-docusaurus-debugb-38-54e"
+    }
+  },
+  "/Elastik/__docusaurus/debug/registry-34c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---elastik-docusaurus-debugb-38-54e"
+    }
+  },
+  "/Elastik/__docusaurus/debug/routes-0ab": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---elastik-docusaurus-debugb-38-54e"
+    }
+  },
+  "/Elastik/docs-684": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---elastik-docsaba-954"
+    }
+  },
+  "/Elastik/docs-a59": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---elastik-docs-3-a-5-e30"
+  },
+  "/Elastik/docs-7b7": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/Elastik/docs/dependencies/integration-points-b94": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-dependencies-integration-pointsc-20-ac5"
+  },
+  "/Elastik/docs/dependencies/module-map-3f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-dependencies-module-map-1-b-0-32a"
+  },
+  "/Elastik/docs/modules/finance/dependencies-518": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-finance-dependencies-6-a-0-a6a"
+  },
+  "/Elastik/docs/modules/finance/overview-c49": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-finance-overviewb-5-b-a63"
+  },
+  "/Elastik/docs/modules/hr/dependencies-768": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-hr-dependenciesfa-9-2d2"
+  },
+  "/Elastik/docs/modules/hr/overview-094": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-hr-overview-6-db-4ca"
+  },
+  "/Elastik/docs/modules/inventory/dependencies-38d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-inventory-dependencies-546-ecb"
+  },
+  "/Elastik/docs/modules/inventory/overview-e28": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-inventory-overview-0-d-6-009"
+  },
+  "/Elastik/docs/modules/sales/customer-pricing-941": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-customer-pricingbf-1-d2c"
+  },
+  "/Elastik/docs/modules/sales/gift-voucher-038": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-gift-voucher-9-a-3-4f0"
+  },
+  "/Elastik/docs/modules/sales/online-orders-d08": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-online-orders-918-222"
+  },
+  "/Elastik/docs/modules/sales/sales-consignment-025": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-sales-consignment-50-e-231"
+  },
+  "/Elastik/docs/modules/sales/sales-invoice-b59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-sales-invoiceea-6-c96"
+  },
+  "/Elastik/docs/modules/sales/sales-order-570": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-sales-orderfaf-a93"
+  },
+  "/Elastik/docs/modules/sales/sales-quotation-7b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-sales-quotation-708-c1f"
+  },
+  "/Elastik/docs/modules/sales/sales-return-f85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-modules-sales-sales-return-077-e47"
+  },
+  "/Elastik/docs/setup/configuration-6c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-setup-configurationd-13-34b"
+  },
+  "/Elastik/docs/setup/installation-789": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---elastik-docs-setup-installationa-8-c-e32"
+  }
+}

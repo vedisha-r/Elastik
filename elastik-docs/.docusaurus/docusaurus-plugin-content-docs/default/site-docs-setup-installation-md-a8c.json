@@ -1,0 +1,14 @@
+{
+  "id": "setup/installation",
+  "title": "installation",
+  "description": "",
+  "source": "@site/docs/setup/installation.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/installation",
+  "permalink": "/Elastik/docs/setup/installation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "modules/finance/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/modules/finance/overview.md",
+  "sourceDirName": "modules/finance",
+  "slug": "/modules/finance/overview",
+  "permalink": "/Elastik/docs/modules/finance/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

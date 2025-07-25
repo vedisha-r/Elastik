@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Elastik/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Elastik/docs",
+          "mainDocId": "modules/sales/sales-order",
+          "docs": [
+            {
+              "id": "dependencies/integration-points",
+              "path": "/Elastik/docs/dependencies/integration-points"
+            },
+            {
+              "id": "dependencies/module-map",
+              "path": "/Elastik/docs/dependencies/module-map"
+            },
+            {
+              "id": "modules/finance/dependencies",
+              "path": "/Elastik/docs/modules/finance/dependencies"
+            },
+            {
+              "id": "modules/finance/overview",
+              "path": "/Elastik/docs/modules/finance/overview"
+            },
+            {
+              "id": "modules/hr/dependencies",
+              "path": "/Elastik/docs/modules/hr/dependencies"
+            },
+            {
+              "id": "modules/hr/overview",
+              "path": "/Elastik/docs/modules/hr/overview"
+            },
+            {
+              "id": "modules/inventory/dependencies",
+              "path": "/Elastik/docs/modules/inventory/dependencies"
+            },
+            {
+              "id": "modules/inventory/overview",
+              "path": "/Elastik/docs/modules/inventory/overview"
+            },
+            {
+              "id": "modules/sales/customer-pricing",
+              "path": "/Elastik/docs/modules/sales/customer-pricing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/sales/gift-voucher",
+              "path": "/Elastik/docs/modules/sales/gift-voucher",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/sales/online-orders",
+              "path": "/Elastik/docs/modules/sales/online-orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/sales/sales-consignment",
+              "path": "/Elastik/docs/modules/sales/sales-consignment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/sales/sales-invoice",
+              "path": "/Elastik/docs/modules/sales/sales-invoice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/sales/sales-order",
+              "path": "/Elastik/docs/modules/sales/sales-order",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/sales/sales-quotation",
+              "path": "/Elastik/docs/modules/sales/sales-quotation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/sales/sales-return",
+              "path": "/Elastik/docs/modules/sales/sales-return",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/configuration",
+              "path": "/Elastik/docs/setup/configuration"
+            },
+            {
+              "id": "setup/installation",
+              "path": "/Elastik/docs/setup/installation"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Elastik/docs/modules/sales/sales-order",
+                "label": "modules/sales/sales-order"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

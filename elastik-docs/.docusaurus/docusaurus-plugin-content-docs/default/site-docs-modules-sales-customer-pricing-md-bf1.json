@@ -1,0 +1,23 @@
+{
+  "id": "modules/sales/customer-pricing",
+  "title": "Customer Pricing",
+  "description": "Details the configuration and application of customer-specific pricing.",
+  "source": "@site/docs/modules/sales/customer-pricing.md",
+  "sourceDirName": "modules/sales",
+  "slug": "/modules/sales/customer-pricing",
+  "permalink": "/Elastik/docs/modules/sales/customer-pricing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Online Orders",
+    "permalink": "/Elastik/docs/modules/sales/online-orders"
+  },
+  "next": {
+    "title": "Gift Voucher",
+    "permalink": "/Elastik/docs/modules/sales/gift-voucher"
+  }
+}

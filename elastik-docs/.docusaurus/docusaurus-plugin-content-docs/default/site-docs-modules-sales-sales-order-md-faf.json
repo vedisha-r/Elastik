@@ -1,0 +1,22 @@
+{
+  "id": "modules/sales/sales-order",
+  "title": "Sales Order",
+  "description": "Covers the creation and management of sales orders within the system.",
+  "source": "@site/docs/modules/sales/sales-order.md",
+  "sourceDirName": "modules/sales",
+  "slug": "/modules/sales/sales-order",
+  "permalink": "/Elastik/docs/modules/sales/sales-order",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "sales-order",
+    "title": "Sales Order"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Sales Quotation",
+    "permalink": "/Elastik/docs/modules/sales/sales-quotation"
+  }
+}

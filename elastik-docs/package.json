@@ -6,18 +6,17 @@
     "doc": "docs"
   },
   "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "serve": "docusaurus serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
-
-  "scripts": {
-  "start": "docusaurus start",
-  "build": "docusaurus build",
-  "serve": "docusaurus serve",
-  "test": "echo \"Error: no test specified\" && exit 1"
-}
-
+  "description": "",
+  "dependencies": {
+    "@docusaurus/core": "^3.8.1",
+    "@docusaurus/preset-classic": "^3.8.1"
+  }
 }

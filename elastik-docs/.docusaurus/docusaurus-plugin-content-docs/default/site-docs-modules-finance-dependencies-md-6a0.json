@@ -1,0 +1,14 @@
+{
+  "id": "modules/finance/dependencies",
+  "title": "dependencies",
+  "description": "This is a sample line.",
+  "source": "@site/docs/modules/finance/dependencies.md",
+  "sourceDirName": "modules/finance",
+  "slug": "/modules/finance/dependencies",
+  "permalink": "/Elastik/docs/modules/finance/dependencies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

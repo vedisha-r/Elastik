@@ -1,0 +1,23 @@
+{
+  "id": "modules/sales/sales-quotation",
+  "title": "Sales Quotation",
+  "description": "This document outlines the process and structure for generating sales quotations.",
+  "source": "@site/docs/modules/sales/sales-quotation.md",
+  "sourceDirName": "modules/sales",
+  "slug": "/modules/sales/sales-quotation",
+  "permalink": "/Elastik/docs/modules/sales/sales-quotation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sales Order",
+    "permalink": "/Elastik/docs/modules/sales/sales-order"
+  },
+  "next": {
+    "title": "Sales Invoice",
+    "permalink": "/Elastik/docs/modules/sales/sales-invoice"
+  }
+}

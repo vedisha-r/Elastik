@@ -1,0 +1,23 @@
+{
+  "id": "modules/sales/sales-consignment",
+  "title": "Sales Consignment",
+  "description": "Describes the procedures for managing consignment sales.",
+  "source": "@site/docs/modules/sales/sales-consignment.md",
+  "sourceDirName": "modules/sales",
+  "slug": "/modules/sales/sales-consignment",
+  "permalink": "/Elastik/docs/modules/sales/sales-consignment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sales Return",
+    "permalink": "/Elastik/docs/modules/sales/sales-return"
+  },
+  "next": {
+    "title": "Online Orders",
+    "permalink": "/Elastik/docs/modules/sales/online-orders"
+  }
+}

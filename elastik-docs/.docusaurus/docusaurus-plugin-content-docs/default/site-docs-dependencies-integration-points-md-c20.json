@@ -1,0 +1,14 @@
+{
+  "id": "dependencies/integration-points",
+  "title": "integration-points",
+  "description": "",
+  "source": "@site/docs/dependencies/integration-points.md",
+  "sourceDirName": "dependencies",
+  "slug": "/dependencies/integration-points",
+  "permalink": "/Elastik/docs/dependencies/integration-points",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

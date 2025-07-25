@@ -1,0 +1,14 @@
+{
+  "id": "setup/configuration",
+  "title": "configuration",
+  "description": "",
+  "source": "@site/docs/setup/configuration.md",
+  "sourceDirName": "setup",
+  "slug": "/setup/configuration",
+  "permalink": "/Elastik/docs/setup/configuration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

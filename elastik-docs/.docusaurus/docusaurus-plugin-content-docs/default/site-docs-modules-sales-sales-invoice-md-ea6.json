@@ -1,0 +1,23 @@
+{
+  "id": "modules/sales/sales-invoice",
+  "title": "Sales Invoice",
+  "description": "Explains the generation and tracking of sales invoices.",
+  "source": "@site/docs/modules/sales/sales-invoice.md",
+  "sourceDirName": "modules/sales",
+  "slug": "/modules/sales/sales-invoice",
+  "permalink": "/Elastik/docs/modules/sales/sales-invoice",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sales Quotation",
+    "permalink": "/Elastik/docs/modules/sales/sales-quotation"
+  },
+  "next": {
+    "title": "Sales Return",
+    "permalink": "/Elastik/docs/modules/sales/sales-return"
+  }
+}

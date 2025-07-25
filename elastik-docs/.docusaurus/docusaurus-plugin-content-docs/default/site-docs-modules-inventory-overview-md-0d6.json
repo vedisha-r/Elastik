@@ -1,0 +1,14 @@
+{
+  "id": "modules/inventory/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/modules/inventory/overview.md",
+  "sourceDirName": "modules/inventory",
+  "slug": "/modules/inventory/overview",
+  "permalink": "/Elastik/docs/modules/inventory/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

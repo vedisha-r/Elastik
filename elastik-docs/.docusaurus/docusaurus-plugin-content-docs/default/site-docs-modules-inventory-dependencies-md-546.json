@@ -1,0 +1,14 @@
+{
+  "id": "modules/inventory/dependencies",
+  "title": "dependencies",
+  "description": "",
+  "source": "@site/docs/modules/inventory/dependencies.md",
+  "sourceDirName": "modules/inventory",
+  "slug": "/modules/inventory/dependencies",
+  "permalink": "/Elastik/docs/modules/inventory/dependencies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

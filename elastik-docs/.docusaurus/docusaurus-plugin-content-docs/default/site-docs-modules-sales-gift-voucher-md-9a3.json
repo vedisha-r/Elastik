@@ -1,0 +1,19 @@
+{
+  "id": "modules/sales/gift-voucher",
+  "title": "Gift Voucher",
+  "description": "Covers the creation, issuance, and redemption of gift vouchers.",
+  "source": "@site/docs/modules/sales/gift-voucher.md",
+  "sourceDirName": "modules/sales",
+  "slug": "/modules/sales/gift-voucher",
+  "permalink": "/Elastik/docs/modules/sales/gift-voucher",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Customer Pricing",
+    "permalink": "/Elastik/docs/modules/sales/customer-pricing"
+  }
+}
